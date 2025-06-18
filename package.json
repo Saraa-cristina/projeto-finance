@@ -1,0 +1,21 @@
+{
+  "name": "finance-backend",
+  "version": "1.0.0",
+  "description": "Este projeto é um sistema de gerenciamento financeiro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sara Cristina",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "fastify": "^5.4.0"
+  }
+}
+
+
+
